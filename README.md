@@ -4,19 +4,15 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+07/31/2018
 ### Student Name:  
-(First and Last Name)
+Mikael Mikaelian
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+During this project, we implemented ajax to our webpage which allows the page to access information from a server without refreshing a webpage. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mm17ak.github.io/Lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+During lesson 8, we implemented ajax. A tool that allows a webpage to retrieve information from a server without reloading the page. Therefore providing a seamless web browsing experience. We also built a movie application that provides users with HTTP request such as movie title, description, release date, language, etc. 
